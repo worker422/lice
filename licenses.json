@@ -1,5 +1,5 @@
 {
-  "allowAnyLicense": true,
+  "allowAnyLicense": false,
   "licenses": [
     "AGENTASH001",
     "AGENTASH005",
